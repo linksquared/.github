@@ -1,5 +1,5 @@
 ## Mobile linking, attribution and referrals.
 
-Linksquared generates dynamic links, tracks attributions, and analyzes referrals, seamlessly directing users to your app or the app store for downloads.
+Grovs generates dynamic links, tracks attributions, and analyzes referrals, seamlessly directing users to your app or the app store for downloads.
 
-https://linksquared.io
+https://grovs.io
